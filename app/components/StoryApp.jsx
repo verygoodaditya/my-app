@@ -257,7 +257,7 @@ function Scene2({ nextScene, previousScene, selectStory }) {
       exit={{ opacity: 0 }}
     >
       <h2 className="m-4 text-2xl font-bold text-center text-white">
-        Choose Your Story
+        Choose Your Portal
       </h2>
 
       <div className="grid grid-cols-2 gap-6 p-4">
